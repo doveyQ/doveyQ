@@ -1,6 +1,6 @@
 ```yaml
          ___     leon@github
-        (.. \    󱄅  NixOS
+        (.. \    󱄅  Thinking & building ...
         (<> |    
        //  \ \   
       ( |  | /|  
